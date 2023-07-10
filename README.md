@@ -20,4 +20,5 @@ Some are linked-listed (><) below while others are a part of the repository code
 * Zappar Instant Tracking
   https://github.com/MdAsimKhan/threejs-zappar-instant-tracking-threejs-scene-loader.git
 
-*
+* RCB Zappar face filter
+  https://github.com/Legend101Zz/zaapar-filter.git
