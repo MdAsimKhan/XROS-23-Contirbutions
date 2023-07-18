@@ -4,6 +4,9 @@ Some are linked-listed (><) below while others are a part of the repository code
 
 * AR Watch Party Project
   https://github.com/Legend101Zz/Watch-Party-Fanisko
+
+* YouTube API integration in the main project
+  https://github.com/Legend101Zz/Watch-Party-Fanisko/pull/28
   
 * ThreeJs MindAR filters
   https://github.com/MdAsimKhan/Three.js-MindAR-Filters.git
